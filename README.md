@@ -4,3 +4,39 @@ Built and trained a PPO based reinforcement learning agent to solve the CartPole
 
 ### Trained agent
 <img src="output.gif" height="250px">
+
+### Mean episode length
+<img src="metrics/metric01_ep_len_mean.png" width="400px">
+
+### Mean episode reward
+<img src="metrics/metric02_ep_rew_mean.png" width="400px"> 
+
+### Training speed/fps
+<img src="metrics/metric03_time_fps.png" width="400px">
+
+### Approximate KL Divergence
+<img src="metrics/metric04_approx_kl.png" width="400px">
+
+### Clip Fraction
+<img src="metrics/metric05_clip_fraction.png" width="400px">
+
+### Clip range
+<img src="metrics/metric06_clip_range.png" width="400px"> 
+
+### Entropy loss
+<img src="metrics/metric07_entropy_loss.png" width="400px"> 
+
+### Explained variance
+<img src="metrics/metric08_explained_variance.png" width="400px"> 
+
+### Learning rate
+<img src="metrics/metric09_learning_rate.png" width="400px"> 
+
+### Loss
+<img src="metrics/metric010_train_loss.png" width="400px"> 
+
+### Policy gradient loss
+<img src="metrics/metric011_policy_gradient_loss.png" width="400px">
+
+### Value loss
+<img src="metrics/metric012_value_loss.png" width="400px">
